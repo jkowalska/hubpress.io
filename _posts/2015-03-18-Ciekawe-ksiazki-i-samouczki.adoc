@@ -1,8 +1,23 @@
 # Ciekawe książki i samouczki:
 
-AsciiDoc: http://www.methods.co.nz/asciidoc/
-
 Pro Git: http://git-scm.com/book/en/v2
 
+AsciiDoc: http://www.methods.co.nz/asciidoc/
 
+Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+HTML5: http://diveintohtml5.info/
+
+HTML & CSS: http://learn.shayhowe.com/html-css/building-your-first-web-page/
+
+HTML & CSS: http://learn.shayhowe.com/advanced-html-css/
+
+Javascript: http://eloquentjavascript.net/
+
+Javascript: http://bonsaiden.github.io/JavaScript-Garden/
+
+Javascript: http://domenlightenment.com/
+
+Javascript: http://www.mattgreer.org/articles/promises-in-wicked-detail/
+
+Javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
