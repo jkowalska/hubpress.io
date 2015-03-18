@@ -1,0 +1,8 @@
+# Ciekawe książki i samouczki:
+
+AsciiDoc: http://www.methods.co.nz/asciidoc/
+
+Pro Git: http://git-scm.com/book/en/v2
+
+
+
