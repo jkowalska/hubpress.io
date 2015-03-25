@@ -1,0 +1,36 @@
+= AsciiDoc - podstawy.
+
+---
+
+TIP: Przydatne wskazówki:
+
+
+_pochylony tekst_
+
+ _pochylony tekst_
+
+
+*pogrubiony tekst*
+
+ *pogrubiony tekst*
+
+
+
+*_pogrubiony i pochylony tekst_*
+
+ *_pogrubiony i pochylony tekst_*
+ 
+ 
+Ten tekst #częściowo pokolorowany#.
+
+	Ten tekst #częściowo pokolorowany#.
+
+Część tego tekstu [small]#jest napisana mniejszą czcionką#.
+
+ Część tego tekstu [small]#jest napisana mniejszą czcionką#.
+
+[big]##T##en tekst zaczyna się od większej litery.
+
+ [big]##T##en tekst zaczyna się od większej litery.
+ 
+image::http://asciidoctor.org/images/octocat.jpg[GitHub mascot]
